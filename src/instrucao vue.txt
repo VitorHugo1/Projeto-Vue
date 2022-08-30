@@ -1,0 +1,16 @@
+v-model = comunicar ao vue salvar o dado do input em alguma parte dele, 
+gerenciar valor de acordo com o que o usario digita.
+
+v-on:click = ativar um evento apartir do click do botão
+
+e.preventDefault(); = não vai deixar formulario ser enviado para o servidor
+
+
+console.log(this.input_name),this.name = this.input_name; -> transformar valor do html igual do input
+
+Data binding: {{}} -> Vai refletir ao ecrever no input
+
+/*Criar prjetos*/
+
+vue create 2_projeto_vue
+npm run serve
